@@ -78,7 +78,7 @@ a:hover{
 }
 .Briyani-row{
   width: 50%;
-  margin:100px auto 100px auto;
+  margin:0 auto 6rem auto;
   text-align: left;
 }
 .Briyani-img{
@@ -89,7 +89,7 @@ a:hover{
 
 .skill-row{
   width: 50%;
-  margin:0 auto 100px auto;
+  margin:0 auto 6rem auto;
   text-align: left;
 }
 .Skill-img{
